@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\ref\Off Line Minimum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\bin\Debug\net5.0\Off Line Minimum.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\ref\Off Line Minimum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Off Line Minimum\obj\Debug\net5.0\Off Line Minimum.genruntimeconfig.cache

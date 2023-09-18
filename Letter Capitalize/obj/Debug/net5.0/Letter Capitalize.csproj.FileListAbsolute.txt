@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\ref\Letter Capitalize.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\bin\Debug\net5.0\Letter Capitalize.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\ref\Letter Capitalize.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Capitalize\obj\Debug\net5.0\Letter Capitalize.genruntimeconfig.cache

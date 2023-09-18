@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\ref\Third Greatest.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\bin\Debug\net5.0\Third Greatest.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\ref\Third Greatest.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Third Greatest\obj\Debug\net5.0\Third Greatest.genruntimeconfig.cache

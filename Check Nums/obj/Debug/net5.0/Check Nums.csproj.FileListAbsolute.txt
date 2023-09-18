@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\ref\Check Nums.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\bin\Debug\net5.0\Check Nums.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\ref\Check Nums.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Check Nums\obj\Debug\net5.0\Check Nums.genruntimeconfig.cache

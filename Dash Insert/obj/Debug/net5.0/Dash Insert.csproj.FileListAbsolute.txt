@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\ref\Dash Insert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\bin\Debug\net5.0\Dash Insert.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\ref\Dash Insert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Dash Insert\obj\Debug\net5.0\Dash Insert.genruntimeconfig.cache

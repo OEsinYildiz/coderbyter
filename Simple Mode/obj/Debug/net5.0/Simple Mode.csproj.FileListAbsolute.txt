@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\ref\Simple Mode.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\bin\Debug\net5.0\Simple Mode.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\ref\Simple Mode.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Mode\obj\Debug\net5.0\Simple Mode.genruntimeconfig.cache

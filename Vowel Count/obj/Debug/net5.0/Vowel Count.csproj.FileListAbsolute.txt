@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\ref\Vowel Count.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\bin\Debug\net5.0\Vowel Count.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\ref\Vowel Count.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Vowel Count\obj\Debug\net5.0\Vowel Count.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\ref\Codeland Username Validation.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\bin\Debug\net5.0\Codeland Username Validation.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\ref\Codeland Username Validation.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Codeland Username Validation\obj\Debug\net5.0\Codeland Username Validation.genruntimeconfig.cache

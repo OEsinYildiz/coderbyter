@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\ref\Simple Evens.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\bin\Debug\net5.0\Simple Evens.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\ref\Simple Evens.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Simple Evens\obj\Debug\net5.0\Simple Evens.genruntimeconfig.cache

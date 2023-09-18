@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\ref\Wave Sorting.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\bin\Debug\net5.0\Wave Sorting.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\ref\Wave Sorting.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Wave Sorting\obj\Debug\net5.0\Wave Sorting.genruntimeconfig.cache

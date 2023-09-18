@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\ref\Array Couples.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\bin\Debug\net5.0\Array Couples.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\ref\Array Couples.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Array Couples\obj\Debug\net5.0\Array Couples.genruntimeconfig.cache

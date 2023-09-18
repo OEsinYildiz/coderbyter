@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\ref\Simple Adding.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\bin\Debug\net5.0\Simple Adding.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\ref\Simple Adding.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Adding\obj\Debug\net5.0\Simple Adding.genruntimeconfig.cache

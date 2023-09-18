@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\ref\Three Sum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\bin\Debug\net5.0\Three Sum.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\ref\Three Sum.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Three Sum\obj\Debug\net5.0\Three Sum.genruntimeconfig.cache

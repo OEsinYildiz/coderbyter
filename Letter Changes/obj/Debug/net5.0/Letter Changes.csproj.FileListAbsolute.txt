@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\ref\Letter Changes.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\bin\Debug\net5.0\Letter Changes.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\ref\Letter Changes.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Letter Changes\obj\Debug\net5.0\Letter Changes.genruntimeconfig.cache

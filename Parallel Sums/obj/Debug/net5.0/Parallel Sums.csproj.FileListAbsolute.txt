@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\ref\Parallel Sums.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\bin\Debug\net5.0\Parallel Sums.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\ref\Parallel Sums.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Parallel Sums\obj\Debug\net5.0\Parallel Sums.genruntimeconfig.cache

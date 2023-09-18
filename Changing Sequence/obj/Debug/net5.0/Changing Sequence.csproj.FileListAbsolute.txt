@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\ref\Changing Sequence.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\bin\Debug\net5.0\Changing Sequence.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\ref\Changing Sequence.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Changing Sequence\obj\Debug\net5.0\Changing Sequence.genruntimeconfig.cache

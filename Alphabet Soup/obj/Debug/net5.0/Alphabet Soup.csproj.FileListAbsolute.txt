@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\ref\Alphabet Soup.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\bin\Debug\net5.0\Alphabet Soup.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\ref\Alphabet Soup.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Alphabet Soup\obj\Debug\net5.0\Alphabet Soup.genruntimeconfig.cache

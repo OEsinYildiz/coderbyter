@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\ref\String_Challneg.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\bin\Debug\net5.0\String_Challneg.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\ref\String_Challneg.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\String_Challneg\obj\Debug\net5.0\String_Challneg.genruntimeconfig.cache

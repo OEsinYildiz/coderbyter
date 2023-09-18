@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\ref\Second GreatLow.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\bin\Debug\net5.0\Second GreatLow.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\ref\Second GreatLow.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Second GreatLow\obj\Debug\net5.0\Second GreatLow.genruntimeconfig.cache

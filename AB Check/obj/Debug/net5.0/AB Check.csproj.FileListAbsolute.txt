@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\ref\AB Check.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\bin\Debug\net5.0\AB Check.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\ref\AB Check.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\AB Check\obj\Debug\net5.0\AB Check.genruntimeconfig.cache

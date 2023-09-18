@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\ref\Time Convert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\bin\Debug\net5.0\Time Convert.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\ref\Time Convert.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Time Convert\obj\Debug\net5.0\Time Convert.genruntimeconfig.cache

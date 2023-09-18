@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\ref\Arith Geo.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\bin\Debug\net5.0\Arith Geo.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\ref\Arith Geo.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Arith Geo\obj\Debug\net5.0\Arith Geo.genruntimeconfig.cache

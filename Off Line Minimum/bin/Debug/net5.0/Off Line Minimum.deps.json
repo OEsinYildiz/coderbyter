@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Off Line Minimum/1.0.0": {
+        "runtime": {
+          "Off Line Minimum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Off Line Minimum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

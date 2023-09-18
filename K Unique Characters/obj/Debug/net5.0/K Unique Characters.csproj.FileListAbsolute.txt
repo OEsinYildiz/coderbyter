@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\ref\K Unique Characters.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\bin\Debug\net5.0\K Unique Characters.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\ref\K Unique Characters.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\K Unique Characters\obj\Debug\net5.0\K Unique Characters.genruntimeconfig.cache

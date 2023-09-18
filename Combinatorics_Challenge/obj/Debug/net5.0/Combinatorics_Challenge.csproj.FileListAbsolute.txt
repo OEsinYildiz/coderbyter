@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\ref\Combinatorics_Challenge.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\bin\Debug\net5.0\Combinatorics_Challenge.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\ref\Combinatorics_Challenge.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Combinatorics_Challenge\obj\Debug\net5.0\Combinatorics_Challenge.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\ref\Even Pairs.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\bin\Debug\net5.0\Even Pairs.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\ref\Even Pairs.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Even Pairs\obj\Debug\net5.0\Even Pairs.genruntimeconfig.cache

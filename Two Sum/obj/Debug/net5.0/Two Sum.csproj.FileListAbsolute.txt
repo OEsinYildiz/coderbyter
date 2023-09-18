@@ -1,0 +1,4 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Two Sum\obj\Debug\net5.0\Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Two Sum\obj\Debug\net5.0\Two Sum.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Two Sum\obj\Debug\net5.0\Two Sum.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Two Sum\obj\Debug\net5.0\Two Sum.csproj.CoreCompileInputs.cache

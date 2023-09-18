@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\ref\Counting Minutes I.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\bin\Debug\net5.0\Counting Minutes I.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\ref\Counting Minutes I.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Counting Minutes I\obj\Debug\net5.0\Counting Minutes I.genruntimeconfig.cache

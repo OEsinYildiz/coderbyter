@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\ref\Longest Word.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\bin\Debug\net5.0\Longest Word.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\ref\Longest Word.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Longest Word\obj\Debug\net5.0\Longest Word.genruntimeconfig.cache

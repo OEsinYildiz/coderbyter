@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\ref\Questions Marks.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\bin\Debug\net5.0\Questions Marks.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\ref\Questions Marks.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Questions Marks\obj\Debug\net5.0\Questions Marks.genruntimeconfig.cache

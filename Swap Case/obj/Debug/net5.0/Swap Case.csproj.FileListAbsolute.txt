@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\ref\Swap Case.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\bin\Debug\net5.0\Swap Case.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\ref\Swap Case.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Swap Case\obj\Debug\net5.0\Swap Case.genruntimeconfig.cache

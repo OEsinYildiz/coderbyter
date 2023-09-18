@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\ref\Time_Calculator.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\bin\Debug\net5.0\Time_Calculator.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\ref\Time_Calculator.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Time_Calculator\obj\Debug\net5.0\Time_Calculator.genruntimeconfig.cache

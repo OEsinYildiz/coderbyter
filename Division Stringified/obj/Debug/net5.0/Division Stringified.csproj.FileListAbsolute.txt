@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\ref\Division Stringified.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\bin\Debug\net5.0\Division Stringified.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\ref\Division Stringified.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Division Stringified\obj\Debug\net5.0\Division Stringified.genruntimeconfig.cache

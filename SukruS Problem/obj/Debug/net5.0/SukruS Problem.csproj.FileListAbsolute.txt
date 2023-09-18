@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\ref\SukruS Problem.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\bin\Debug\net5.0\SukruS Problem.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\ref\SukruS Problem.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\SukruS Problem\obj\Debug\net5.0\SukruS Problem.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\ref\Consecutive.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\bin\Debug\net5.0\Consecutive.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\ref\Consecutive.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Consecutive\obj\Debug\net5.0\Consecutive.genruntimeconfig.cache

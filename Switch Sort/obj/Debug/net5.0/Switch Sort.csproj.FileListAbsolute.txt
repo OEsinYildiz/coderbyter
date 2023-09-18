@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\ref\Switch Sort.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\bin\Debug\net5.0\Switch Sort.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\ref\Switch Sort.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Switch Sort\obj\Debug\net5.0\Switch Sort.genruntimeconfig.cache

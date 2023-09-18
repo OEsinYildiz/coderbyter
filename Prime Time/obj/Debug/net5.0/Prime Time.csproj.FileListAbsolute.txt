@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\ref\Prime Time.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\bin\Debug\net5.0\Prime Time.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\ref\Prime Time.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Prime Time\obj\Debug\net5.0\Prime Time.genruntimeconfig.cache

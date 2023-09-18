@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "K Unique Characters/1.0.0": {
+        "runtime": {
+          "K Unique Characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K Unique Characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\ref\Ex Oh.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\bin\Debug\net5.0\Ex Oh.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\ref\Ex Oh.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Ex Oh\obj\Debug\net5.0\Ex Oh.genruntimeconfig.cache

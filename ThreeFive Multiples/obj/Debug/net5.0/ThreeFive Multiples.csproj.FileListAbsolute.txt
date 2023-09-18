@@ -1,0 +1,5 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\ThreeFive Multiples\obj\Debug\net5.0\ThreeFive Multiples.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\ThreeFive Multiples\obj\Debug\net5.0\ThreeFive Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\ThreeFive Multiples\obj\Debug\net5.0\ThreeFive Multiples.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\ThreeFive Multiples\obj\Debug\net5.0\ThreeFive Multiples.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\ThreeFive Multiples\obj\Debug\net5.0\ThreeFive Multiples.csproj.CoreCompileInputs.cache

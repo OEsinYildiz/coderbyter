@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.exe
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.deps.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.runtimeconfig.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\ref\Letter Count.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\bin\Debug\net5.0\Letter Count.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.AssemblyInfo.cs
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\ref\Letter Count.dll
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.pdb
+C:\Users\omere\Desktop\Coderbyte\CoderByte\Letter Count\obj\Debug\net5.0\Letter Count.genruntimeconfig.cache

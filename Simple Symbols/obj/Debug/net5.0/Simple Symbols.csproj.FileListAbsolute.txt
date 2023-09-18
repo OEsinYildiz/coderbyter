@@ -1,0 +1,16 @@
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.exe
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.deps.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.runtimeconfig.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.runtimeconfig.dev.json
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\ref\Simple Symbols.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\bin\Debug\net5.0\Simple Symbols.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.csproj.AssemblyReference.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.AssemblyInfoInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.AssemblyInfo.cs
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.csproj.CoreCompileInputs.cache
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\ref\Simple Symbols.dll
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.pdb
+C:\Users\omere\OneDrive\Coderbyte\CoderByte\Simple Symbols\obj\Debug\net5.0\Simple Symbols.genruntimeconfig.cache
